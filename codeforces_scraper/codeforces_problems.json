@@ -1,0 +1,1099 @@
+[
+    {
+        "title": "2052M",
+        "link": "https://codeforces.com/problemset/problem/2052/M",
+        "tags": [
+            "Managing Cluster",
+            "dp",
+            "graphs",
+            "math",
+            "trees"
+        ],
+        "difficulty": "2700"
+    },
+    {
+        "title": "2052L",
+        "link": "https://codeforces.com/problemset/problem/2052/L",
+        "tags": [
+            "Legacy Screensaver"
+        ],
+        "difficulty": "2900"
+    },
+    {
+        "title": "2052K",
+        "link": "https://codeforces.com/problemset/problem/2052/K",
+        "tags": [
+            "Knowns and Unknowns"
+        ],
+        "difficulty": "2800"
+    },
+    {
+        "title": "2052J",
+        "link": "https://codeforces.com/problemset/problem/2052/J",
+        "tags": [
+            "Judicious Watching",
+            "binary search",
+            "greedy",
+            "sortings"
+        ],
+        "difficulty": "2000"
+    },
+    {
+        "title": "2052I",
+        "link": "https://codeforces.com/problemset/problem/2052/I",
+        "tags": [
+            "Incompetent Delivery Guy",
+            "graphs",
+            "shortest paths"
+        ],
+        "difficulty": "2800"
+    },
+    {
+        "title": "2052H",
+        "link": "https://codeforces.com/problemset/problem/2052/H",
+        "tags": [
+            "Hunting Hoglins in Hogwarts",
+            "interactive"
+        ],
+        "difficulty": "3500"
+    },
+    {
+        "title": "2052G",
+        "link": "https://codeforces.com/problemset/problem/2052/G",
+        "tags": [
+            "Geometric Balance",
+            "data structures",
+            "geometry",
+            "implementation"
+        ],
+        "difficulty": "2800"
+    },
+    {
+        "title": "2052F",
+        "link": "https://codeforces.com/problemset/problem/2052/F",
+        "tags": [
+            "Fix Flooded Floor",
+            "constructive algorithms",
+            "dp",
+            "graphs"
+        ],
+        "difficulty": "1700"
+    },
+    {
+        "title": "2052E",
+        "link": "https://codeforces.com/problemset/problem/2052/E",
+        "tags": [
+            "Expression Correction",
+            "brute force",
+            "expression parsing",
+            "strings"
+        ],
+        "difficulty": "1900"
+    },
+    {
+        "title": "2052D",
+        "link": "https://codeforces.com/problemset/problem/2052/D",
+        "tags": [
+            "DAG Serialization",
+            "brute force",
+            "graphs"
+        ],
+        "difficulty": "2100"
+    },
+    {
+        "title": "2052C",
+        "link": "https://codeforces.com/problemset/problem/2052/C",
+        "tags": [
+            "Cactus without Bridges",
+            "constructive algorithms",
+            "math"
+        ],
+        "difficulty": "3500"
+    },
+    {
+        "title": "2052B",
+        "link": "https://codeforces.com/problemset/problem/2052/B",
+        "tags": [
+            "BitBitJump"
+        ],
+        "difficulty": "2400"
+    },
+    {
+        "title": "2052A",
+        "link": "https://codeforces.com/problemset/problem/2052/A",
+        "tags": [
+            "Adrenaline Rush",
+            "constructive algorithms"
+        ],
+        "difficulty": "1600"
+    },
+    {
+        "title": "2051G",
+        "link": "https://codeforces.com/problemset/problem/2051/G",
+        "tags": [
+            "Snakes",
+            "bitmasks",
+            "dp",
+            "graphs"
+        ],
+        "difficulty": "Unknown"
+    },
+    {
+        "title": "2051F",
+        "link": "https://codeforces.com/problemset/problem/2051/F",
+        "tags": [
+            "Joker",
+            "greedy",
+            "math"
+        ],
+        "difficulty": "Unknown"
+    },
+    {
+        "title": "2051E",
+        "link": "https://codeforces.com/problemset/problem/2051/E",
+        "tags": [
+            "Best Price",
+            "brute force",
+            "greedy",
+            "sortings"
+        ],
+        "difficulty": "Unknown"
+    },
+    {
+        "title": "2051D",
+        "link": "https://codeforces.com/problemset/problem/2051/D",
+        "tags": [
+            "Counting Pairs",
+            "binary search",
+            "sortings",
+            "two pointers"
+        ],
+        "difficulty": "Unknown"
+    },
+    {
+        "title": "2051C",
+        "link": "https://codeforces.com/problemset/problem/2051/C",
+        "tags": [
+            "Preparing for the Exam",
+            "constructive algorithms",
+            "implementation"
+        ],
+        "difficulty": "Unknown"
+    },
+    {
+        "title": "2051B",
+        "link": "https://codeforces.com/problemset/problem/2051/B",
+        "tags": [
+            "Journey",
+            "binary search",
+            "math"
+        ],
+        "difficulty": "Unknown"
+    },
+    {
+        "title": "2051A",
+        "link": "https://codeforces.com/problemset/problem/2051/A",
+        "tags": [
+            "Preparing for the Olympiad",
+            "greedy"
+        ],
+        "difficulty": "Unknown"
+    },
+    {
+        "title": "2050G",
+        "link": "https://codeforces.com/problemset/problem/2050/G",
+        "tags": [
+            "Tree Destruction",
+            "dfs and similar",
+            "dp",
+            "trees"
+        ],
+        "difficulty": "1900"
+    },
+    {
+        "title": "2050F",
+        "link": "https://codeforces.com/problemset/problem/2050/F",
+        "tags": [
+            "Maximum modulo equality",
+            "data structures",
+            "divide and conquer",
+            "math",
+            "number theory"
+        ],
+        "difficulty": "1700"
+    },
+    {
+        "title": "2050E",
+        "link": "https://codeforces.com/problemset/problem/2050/E",
+        "tags": [
+            "Three Strings",
+            "dp",
+            "implementation",
+            "strings"
+        ],
+        "difficulty": "1500"
+    },
+    {
+        "title": "2050D",
+        "link": "https://codeforces.com/problemset/problem/2050/D",
+        "tags": [
+            "Digital string maximization",
+            "brute force",
+            "greedy",
+            "math",
+            "strings"
+        ],
+        "difficulty": "1300"
+    },
+    {
+        "title": "2050C",
+        "link": "https://codeforces.com/problemset/problem/2050/C",
+        "tags": [
+            "Uninteresting Number",
+            "brute force",
+            "dp",
+            "math"
+        ],
+        "difficulty": "1200"
+    },
+    {
+        "title": "2050B",
+        "link": "https://codeforces.com/problemset/problem/2050/B",
+        "tags": [
+            "Transfusion",
+            "brute force",
+            "greedy",
+            "math"
+        ],
+        "difficulty": "1100"
+    },
+    {
+        "title": "2050A",
+        "link": "https://codeforces.com/problemset/problem/2050/A",
+        "tags": [
+            "Line Breaks",
+            "implementation"
+        ],
+        "difficulty": "800"
+    },
+    {
+        "title": "2049F",
+        "link": "https://codeforces.com/problemset/problem/2049/F",
+        "tags": [
+            "MEX OR Mania",
+            "bitmasks",
+            "brute force",
+            "data structures",
+            "implementation"
+        ],
+        "difficulty": "Unknown"
+    },
+    {
+        "title": "2049E",
+        "link": "https://codeforces.com/problemset/problem/2049/E",
+        "tags": [
+            "Broken Queries",
+            "binary search",
+            "constructive algorithms",
+            "implementation",
+            "interactive"
+        ],
+        "difficulty": "Unknown"
+    },
+    {
+        "title": "2049D",
+        "link": "https://codeforces.com/problemset/problem/2049/D",
+        "tags": [
+            "Shift + Esc",
+            "brute force",
+            "dp"
+        ],
+        "difficulty": "Unknown"
+    },
+    {
+        "title": "2049C",
+        "link": "https://codeforces.com/problemset/problem/2049/C",
+        "tags": [
+            "MEX Cycle",
+            "constructive algorithms",
+            "greedy",
+            "implementation"
+        ],
+        "difficulty": "Unknown"
+    },
+    {
+        "title": "2049B",
+        "link": "https://codeforces.com/problemset/problem/2049/B",
+        "tags": [
+            "pspspsps",
+            "brute force",
+            "constructive algorithms",
+            "graph matchings",
+            "implementation"
+        ],
+        "difficulty": "Unknown"
+    },
+    {
+        "title": "2049A",
+        "link": "https://codeforces.com/problemset/problem/2049/A",
+        "tags": [
+            "MEX Destruction",
+            "greedy",
+            "implementation"
+        ],
+        "difficulty": "Unknown"
+    },
+    {
+        "title": "2048I2",
+        "link": "https://codeforces.com/problemset/problem/2048/I2",
+        "tags": [
+            "Kevin and Puzzle (Hard Version)",
+            "bitmasks",
+            "fft",
+            "math"
+        ],
+        "difficulty": "Unknown"
+    },
+    {
+        "title": "2048I1",
+        "link": "https://codeforces.com/problemset/problem/2048/I1",
+        "tags": [
+            "Kevin and Puzzle (Easy Version)",
+            "constructive algorithms"
+        ],
+        "difficulty": "Unknown"
+    },
+    {
+        "title": "2048H",
+        "link": "https://codeforces.com/problemset/problem/2048/H",
+        "tags": [
+            "Kevin and Strange Operation",
+            "data structures",
+            "dp"
+        ],
+        "difficulty": "Unknown"
+    },
+    {
+        "title": "2048G",
+        "link": "https://codeforces.com/problemset/problem/2048/G",
+        "tags": [
+            "Kevin and Matrices",
+            "combinatorics",
+            "math"
+        ],
+        "difficulty": "Unknown"
+    },
+    {
+        "title": "2048F",
+        "link": "https://codeforces.com/problemset/problem/2048/F",
+        "tags": [
+            "Kevin and Math Class",
+            "brute force",
+            "data structures",
+            "divide and conquer",
+            "dp",
+            "greedy",
+            "implementation",
+            "math",
+            "trees"
+        ],
+        "difficulty": "Unknown"
+    },
+    {
+        "title": "2048E",
+        "link": "https://codeforces.com/problemset/problem/2048/E",
+        "tags": [
+            "Kevin and Bipartite Graph",
+            "constructive algorithms",
+            "graphs",
+            "greedy"
+        ],
+        "difficulty": "Unknown"
+    },
+    {
+        "title": "2048D",
+        "link": "https://codeforces.com/problemset/problem/2048/D",
+        "tags": [
+            "Kevin and Competition Memories",
+            "binary search",
+            "brute force",
+            "data structures",
+            "greedy",
+            "sortings",
+            "two pointers"
+        ],
+        "difficulty": "Unknown"
+    },
+    {
+        "title": "2048C",
+        "link": "https://codeforces.com/problemset/problem/2048/C",
+        "tags": [
+            "Kevin and Binary Strings",
+            "bitmasks",
+            "brute force",
+            "greedy",
+            "implementation",
+            "strings"
+        ],
+        "difficulty": "Unknown"
+    },
+    {
+        "title": "2048B",
+        "link": "https://codeforces.com/problemset/problem/2048/B",
+        "tags": [
+            "Kevin and Permutation",
+            "constructive algorithms",
+            "greedy"
+        ],
+        "difficulty": "Unknown"
+    },
+    {
+        "title": "2048A",
+        "link": "https://codeforces.com/problemset/problem/2048/A",
+        "tags": [
+            "Kevin and Combination Lock",
+            "brute force",
+            "greedy",
+            "implementation",
+            "math",
+            "number theory"
+        ],
+        "difficulty": "Unknown"
+    },
+    {
+        "title": "2047B",
+        "link": "https://codeforces.com/problemset/problem/2047/B",
+        "tags": [
+            "Replace Character",
+            "brute force",
+            "combinatorics",
+            "greedy",
+            "strings"
+        ],
+        "difficulty": "900"
+    },
+    {
+        "title": "2047A",
+        "link": "https://codeforces.com/problemset/problem/2047/A",
+        "tags": [
+            "Alyona and a Square Jigsaw Puzzle",
+            "implementation",
+            "math"
+        ],
+        "difficulty": "800"
+    },
+    {
+        "title": "2046F2",
+        "link": "https://codeforces.com/problemset/problem/2046/F2",
+        "tags": [
+            "Yandex Cuneiform (Hard Version)",
+            "constructive algorithms",
+            "data structures",
+            "greedy",
+            "implementation"
+        ],
+        "difficulty": "3500"
+    },
+    {
+        "title": "2046F1",
+        "link": "https://codeforces.com/problemset/problem/2046/F1",
+        "tags": [
+            "Yandex Cuneiform (Easy Version)",
+            "constructive algorithms",
+            "data structures",
+            "greedy"
+        ],
+        "difficulty": "3300"
+    },
+    {
+        "title": "2046E2",
+        "link": "https://codeforces.com/problemset/problem/2046/E2",
+        "tags": [
+            "Cheops and a Contest (Hard Version)",
+            "greedy",
+            "implementation"
+        ],
+        "difficulty": "3500"
+    },
+    {
+        "title": "2046E1",
+        "link": "https://codeforces.com/problemset/problem/2046/E1",
+        "tags": [
+            "Cheops and a Contest (Easy Version)",
+            "constructive algorithms",
+            "greedy"
+        ],
+        "difficulty": "2900"
+    },
+    {
+        "title": "2046D",
+        "link": "https://codeforces.com/problemset/problem/2046/D",
+        "tags": [
+            "For the Emperor!",
+            "flows",
+            "graphs"
+        ],
+        "difficulty": "3100"
+    },
+    {
+        "title": "2046C",
+        "link": "https://codeforces.com/problemset/problem/2046/C",
+        "tags": [
+            "Adventurers",
+            "binary search",
+            "data structures",
+            "greedy",
+            "sortings",
+            "ternary search",
+            "two pointers"
+        ],
+        "difficulty": "2100"
+    },
+    {
+        "title": "2046B",
+        "link": "https://codeforces.com/problemset/problem/2046/B",
+        "tags": [
+            "Move Back at a Cost",
+            "binary search",
+            "data structures",
+            "greedy",
+            "sortings"
+        ],
+        "difficulty": "1600"
+    },
+    {
+        "title": "2046A",
+        "link": "https://codeforces.com/problemset/problem/2046/A",
+        "tags": [
+            "Swap Columns and Find a Path",
+            "greedy",
+            "sortings"
+        ],
+        "difficulty": "1200"
+    },
+    {
+        "title": "2045M",
+        "link": "https://codeforces.com/problemset/problem/2045/M",
+        "tags": [
+            "Mirror Maze",
+            "brute force",
+            "dfs and similar",
+            "graphs",
+            "implementation"
+        ],
+        "difficulty": "1800"
+    },
+    {
+        "title": "2045L",
+        "link": "https://codeforces.com/problemset/problem/2045/L",
+        "tags": [
+            "Buggy DFS",
+            "constructive algorithms"
+        ],
+        "difficulty": "3000"
+    },
+    {
+        "title": "2045K",
+        "link": "https://codeforces.com/problemset/problem/2045/K",
+        "tags": [
+            "GCDDCG"
+        ],
+        "difficulty": "2900"
+    },
+    {
+        "title": "2045J",
+        "link": "https://codeforces.com/problemset/problem/2045/J",
+        "tags": [
+            "Xorderable Array",
+            "bitmasks",
+            "data structures"
+        ],
+        "difficulty": "2600"
+    },
+    {
+        "title": "2045I",
+        "link": "https://codeforces.com/problemset/problem/2045/I",
+        "tags": [
+            "Microwavable Subsequence",
+            "data structures"
+        ],
+        "difficulty": "2100"
+    },
+    {
+        "title": "2045H",
+        "link": "https://codeforces.com/problemset/problem/2045/H",
+        "tags": [
+            "Missing Separators",
+            "dp",
+            "sortings",
+            "string suffix structures",
+            "strings"
+        ],
+        "difficulty": "2200"
+    },
+    {
+        "title": "2045G",
+        "link": "https://codeforces.com/problemset/problem/2045/G",
+        "tags": [
+            "X Aura",
+            "graphs",
+            "math",
+            "shortest paths"
+        ],
+        "difficulty": "2200"
+    },
+    {
+        "title": "2045F",
+        "link": "https://codeforces.com/problemset/problem/2045/F",
+        "tags": [
+            "Grid Game 3-angle",
+            "games",
+            "math"
+        ],
+        "difficulty": "3000"
+    },
+    {
+        "title": "2045E",
+        "link": "https://codeforces.com/problemset/problem/2045/E",
+        "tags": [
+            "Narrower Passageway",
+            "combinatorics",
+            "data structures"
+        ],
+        "difficulty": "2700"
+    },
+    {
+        "title": "2045D",
+        "link": "https://codeforces.com/problemset/problem/2045/D",
+        "tags": [
+            "Aquatic Dragon"
+        ],
+        "difficulty": "3500"
+    },
+    {
+        "title": "2045C",
+        "link": "https://codeforces.com/problemset/problem/2045/C",
+        "tags": [
+            "Saraga",
+            "greedy",
+            "strings"
+        ],
+        "difficulty": "1400"
+    },
+    {
+        "title": "2045B",
+        "link": "https://codeforces.com/problemset/problem/2045/B",
+        "tags": [
+            "ICPC Square",
+            "math",
+            "number theory"
+        ],
+        "difficulty": "2000"
+    },
+    {
+        "title": "2045A",
+        "link": "https://codeforces.com/problemset/problem/2045/A",
+        "tags": [
+            "Scrambled Scrabble",
+            "brute force",
+            "greedy"
+        ],
+        "difficulty": "1700"
+    },
+    {
+        "title": "2044H",
+        "link": "https://codeforces.com/problemset/problem/2044/H",
+        "tags": [
+            "Hard Demon Problem",
+            "constructive algorithms",
+            "data structures",
+            "dp",
+            "implementation",
+            "math"
+        ],
+        "difficulty": "Unknown"
+    },
+    {
+        "title": "2044G2",
+        "link": "https://codeforces.com/problemset/problem/2044/G2",
+        "tags": [
+            "Medium Demon Problem (hard version)",
+            "dfs and similar",
+            "dp",
+            "dsu",
+            "graphs",
+            "implementation",
+            "trees"
+        ],
+        "difficulty": "Unknown"
+    },
+    {
+        "title": "2044G1",
+        "link": "https://codeforces.com/problemset/problem/2044/G1",
+        "tags": [
+            "Medium Demon Problem (easy version)",
+            "dfs and similar",
+            "graph matchings",
+            "graphs",
+            "implementation",
+            "trees"
+        ],
+        "difficulty": "Unknown"
+    },
+    {
+        "title": "2044F",
+        "link": "https://codeforces.com/problemset/problem/2044/F",
+        "tags": [
+            "Easy Demon Problem",
+            "binary search",
+            "brute force",
+            "data structures",
+            "math",
+            "number theory"
+        ],
+        "difficulty": "Unknown"
+    },
+    {
+        "title": "2044E",
+        "link": "https://codeforces.com/problemset/problem/2044/E",
+        "tags": [
+            "Insane Problem",
+            "binary search",
+            "greedy",
+            "implementation",
+            "math",
+            "number theory"
+        ],
+        "difficulty": "Unknown"
+    },
+    {
+        "title": "2044D",
+        "link": "https://codeforces.com/problemset/problem/2044/D",
+        "tags": [
+            "Harder Problem",
+            "constructive algorithms",
+            "greedy",
+            "math"
+        ],
+        "difficulty": "Unknown"
+    },
+    {
+        "title": "2044C",
+        "link": "https://codeforces.com/problemset/problem/2044/C",
+        "tags": [
+            "Hard Problem",
+            "greedy",
+            "math"
+        ],
+        "difficulty": "Unknown"
+    },
+    {
+        "title": "2044B",
+        "link": "https://codeforces.com/problemset/problem/2044/B",
+        "tags": [
+            "Normal Problem",
+            "implementation",
+            "strings"
+        ],
+        "difficulty": "Unknown"
+    },
+    {
+        "title": "2044A",
+        "link": "https://codeforces.com/problemset/problem/2044/A",
+        "tags": [
+            "Easy Problem",
+            "brute force",
+            "math"
+        ],
+        "difficulty": "Unknown"
+    },
+    {
+        "title": "2042F",
+        "link": "https://codeforces.com/problemset/problem/2042/F",
+        "tags": [
+            "Two Subarrays",
+            "data structures",
+            "dp",
+            "implementation",
+            "matrices"
+        ],
+        "difficulty": "2600"
+    },
+    {
+        "title": "2042E",
+        "link": "https://codeforces.com/problemset/problem/2042/E",
+        "tags": [
+            "Vertex Pairs",
+            "binary search",
+            "brute force",
+            "data structures",
+            "dfs and similar",
+            "divide and conquer",
+            "greedy",
+            "implementation",
+            "trees"
+        ],
+        "difficulty": "2900"
+    },
+    {
+        "title": "2042D",
+        "link": "https://codeforces.com/problemset/problem/2042/D",
+        "tags": [
+            "Recommendations",
+            "data structures",
+            "implementation",
+            "sortings",
+            "two pointers"
+        ],
+        "difficulty": "1900"
+    },
+    {
+        "title": "2042C",
+        "link": "https://codeforces.com/problemset/problem/2042/C",
+        "tags": [
+            "Competitive Fishing",
+            "greedy"
+        ],
+        "difficulty": "1800"
+    },
+    {
+        "title": "2042B",
+        "link": "https://codeforces.com/problemset/problem/2042/B",
+        "tags": [
+            "Game with Colored Marbles",
+            "games",
+            "greedy"
+        ],
+        "difficulty": "900"
+    },
+    {
+        "title": "2042A",
+        "link": "https://codeforces.com/problemset/problem/2042/A",
+        "tags": [
+            "Greedy Monocarp",
+            "greedy",
+            "sortings"
+        ],
+        "difficulty": "800"
+    },
+    {
+        "title": "2041N",
+        "link": "https://codeforces.com/problemset/problem/2041/N",
+        "tags": [
+            "Railway Construction"
+        ],
+        "difficulty": "3300"
+    },
+    {
+        "title": "2041M",
+        "link": "https://codeforces.com/problemset/problem/2041/M",
+        "tags": [
+            "Selection Sort",
+            "binary search",
+            "data structures",
+            "greedy",
+            "two pointers"
+        ],
+        "difficulty": "2000"
+    },
+    {
+        "title": "2041L",
+        "link": "https://codeforces.com/problemset/problem/2041/L",
+        "tags": [
+            "Building Castle"
+        ],
+        "difficulty": "2900"
+    },
+    {
+        "title": "2041K",
+        "link": "https://codeforces.com/problemset/problem/2041/K",
+        "tags": [
+            "Trophic Balance Species",
+            "binary search",
+            "brute force",
+            "dfs and similar",
+            "graphs"
+        ],
+        "difficulty": "3100"
+    },
+    {
+        "title": "2041J",
+        "link": "https://codeforces.com/problemset/problem/2041/J",
+        "tags": [
+            "Bottle Arrangement",
+            "data structures",
+            "divide and conquer",
+            "dp",
+            "dsu",
+            "greedy"
+        ],
+        "difficulty": "2700"
+    },
+    {
+        "title": "2041I",
+        "link": "https://codeforces.com/problemset/problem/2041/I",
+        "tags": [
+            "Auto Complete",
+            "binary search",
+            "data structures",
+            "hashing",
+            "implementation",
+            "sortings",
+            "strings",
+            "trees"
+        ],
+        "difficulty": "2300"
+    },
+    {
+        "title": "2041H",
+        "link": "https://codeforces.com/problemset/problem/2041/H",
+        "tags": [
+            "Sheet Music",
+            "combinatorics",
+            "dp",
+            "math"
+        ],
+        "difficulty": "2300"
+    },
+    {
+        "title": "2041G",
+        "link": "https://codeforces.com/problemset/problem/2041/G",
+        "tags": [
+            "Grid Game"
+        ],
+        "difficulty": "3100"
+    },
+    {
+        "title": "2041F",
+        "link": "https://codeforces.com/problemset/problem/2041/F",
+        "tags": [
+            "Segmentation Folds",
+            "brute force",
+            "dfs and similar",
+            "number theory"
+        ],
+        "difficulty": "2400"
+    },
+    {
+        "title": "2041E",
+        "link": "https://codeforces.com/problemset/problem/2041/E",
+        "tags": [
+            "Beautiful Array",
+            "constructive algorithms",
+            "math"
+        ],
+        "difficulty": "1200"
+    },
+    {
+        "title": "2041D",
+        "link": "https://codeforces.com/problemset/problem/2041/D",
+        "tags": [
+            "Drunken Maze",
+            "brute force",
+            "dfs and similar",
+            "graphs",
+            "shortest paths"
+        ],
+        "difficulty": "1700"
+    },
+    {
+        "title": "2041C",
+        "link": "https://codeforces.com/problemset/problem/2041/C",
+        "tags": [
+            "Cube",
+            "bitmasks",
+            "dfs and similar",
+            "dp"
+        ],
+        "difficulty": "2000"
+    },
+    {
+        "title": "2041B",
+        "link": "https://codeforces.com/problemset/problem/2041/B",
+        "tags": [
+            "Bowling Frame",
+            "binary search",
+            "brute force",
+            "math"
+        ],
+        "difficulty": "1200"
+    },
+    {
+        "title": "2041A",
+        "link": "https://codeforces.com/problemset/problem/2041/A",
+        "tags": [
+            "The Bento Box Adventure",
+            "implementation",
+            "sortings"
+        ],
+        "difficulty": "1300"
+    },
+    {
+        "title": "2040F",
+        "link": "https://codeforces.com/problemset/problem/2040/F",
+        "tags": [
+            "Number of Cubes",
+            "combinatorics",
+            "dp",
+            "math",
+            "number theory"
+        ],
+        "difficulty": "2700"
+    },
+    {
+        "title": "2040E",
+        "link": "https://codeforces.com/problemset/problem/2040/E",
+        "tags": [
+            "Control of Randomness",
+            "combinatorics",
+            "dfs and similar",
+            "dp",
+            "graphs",
+            "greedy",
+            "math",
+            "probabilities",
+            "trees"
+        ],
+        "difficulty": "2100"
+    },
+    {
+        "title": "2040D",
+        "link": "https://codeforces.com/problemset/problem/2040/D",
+        "tags": [
+            "Non Prime Tree",
+            "brute force",
+            "constructive algorithms",
+            "dfs and similar",
+            "greedy",
+            "number theory",
+            "trees",
+            "two pointers"
+        ],
+        "difficulty": "1900"
+    },
+    {
+        "title": "2040C",
+        "link": "https://codeforces.com/problemset/problem/2040/C",
+        "tags": [
+            "Ordered Permutations",
+            "bitmasks",
+            "combinatorics",
+            "constructive algorithms",
+            "greedy",
+            "math",
+            "two pointers"
+        ],
+        "difficulty": "1600"
+    },
+    {
+        "title": "2040B",
+        "link": "https://codeforces.com/problemset/problem/2040/B",
+        "tags": [
+            "Paint a Strip",
+            "constructive algorithms",
+            "greedy",
+            "math"
+        ],
+        "difficulty": "1000"
+    }
+]
